@@ -1,0 +1,40 @@
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\Redist\Debug\x64\ucrtbased.dll
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\SplashScreen.scale-200.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\StoreLogo.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\ProviderAssets\app_Screenshot.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\ProviderAssets\Counting_Icon.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\ProviderAssets\Counting_Screenshot.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\ProviderAssets\Weather_Icon.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\ProviderAssets\Weather_Screenshot.png
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\bin\x64\Debug\resources.pri
+C:\Users\Jorick\.nuget\packages\adaptivecards\3.1.0\lib\net6.0\AdaptiveCards.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Providers.Projection.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Jorick\.nuget\packages\newtonsoft.json\13.0.3\lib\net6.0\Newtonsoft.Json.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windowsappsdk\1.4.231115000\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.22621.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\Jorick\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.22621.31\lib\net6.0\WinRT.Runtime.dll
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProvider\bin\Debug\net6.0-windows10.0.22621.0\ExampleWidgetProvider.deps.json
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProvider\obj\Debug\net6.0-windows10.0.22621.0\apphost.exe
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProvider\bin\Debug\net6.0-windows10.0.22621.0\ExampleWidgetProvider.runtimeconfig.json
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProvider\bin\Debug\net6.0-windows10.0.22621.0\ExampleWidgetProvider.dll
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProvider\bin\Debug\net6.0-windows10.0.22621.0\ExampleWidgetProvider.pdb

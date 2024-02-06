@@ -1,0 +1,1 @@
+C:\Users\Jorick\Documents\Devtest\Widget C#\ExampleWidgetProvider\ExampleWidgetProviderPackage\ExampleWidgetProviderPackage.wapproj;x64
